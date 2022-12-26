@@ -1,0 +1,46 @@
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+D:\A_HK1_2021-2022\Object-OrientedProgramming\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+D:\HK1_2021-2022\Object-OrientedProgramming\Cuối kỳ\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.SuggestedBindingRedirects.cache
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+D:\OOP_QuanLyKTX\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\New folder\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\OOP_Project - Copy\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe.config
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\bin\Debug\OOP_QuanLyKTX.pdb
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.exe
+C:\Users\thais\OneDrive\Desktop\OOP_Project\OOP_QuanLyKTX\obj\Debug\OOP_QuanLyKTX.pdb
